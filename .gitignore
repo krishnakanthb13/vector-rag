@@ -1,0 +1,7 @@
+.env
+chroma_db/
+source_docs/
+scripts/history.md
+scripts/history-*.md
+__pycache__/
+*.pyc
